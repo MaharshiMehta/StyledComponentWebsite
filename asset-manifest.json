@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/StyledComponentWebsite/static/js/main.e37ddec8.chunk.js",
+    "main.js.map": "/StyledComponentWebsite/static/js/main.e37ddec8.chunk.js.map",
+    "runtime-main.js": "/StyledComponentWebsite/static/js/runtime-main.f8c47b63.js",
+    "runtime-main.js.map": "/StyledComponentWebsite/static/js/runtime-main.f8c47b63.js.map",
+    "static/js/2.c9a99098.chunk.js": "/StyledComponentWebsite/static/js/2.c9a99098.chunk.js",
+    "static/js/2.c9a99098.chunk.js.map": "/StyledComponentWebsite/static/js/2.c9a99098.chunk.js.map",
+    "static/js/3.62b4a4c4.chunk.js": "/StyledComponentWebsite/static/js/3.62b4a4c4.chunk.js",
+    "static/js/3.62b4a4c4.chunk.js.map": "/StyledComponentWebsite/static/js/3.62b4a4c4.chunk.js.map",
+    "index.html": "/StyledComponentWebsite/index.html",
+    "static/js/2.c9a99098.chunk.js.LICENSE.txt": "/StyledComponentWebsite/static/js/2.c9a99098.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/StyledComponentWebsite/static/media/profile.8a701d40.jpg",
+    "static/media/svg-1.svg": "/StyledComponentWebsite/static/media/svg-1.c9c88a21.svg",
+    "static/media/svg-2.svg": "/StyledComponentWebsite/static/media/svg-2.882a2cd5.svg",
+    "static/media/svg-3.svg": "/StyledComponentWebsite/static/media/svg-3.335c6aa8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8c47b63.js",
+    "static/js/2.c9a99098.chunk.js",
+    "static/js/main.e37ddec8.chunk.js"
+  ]
+}
